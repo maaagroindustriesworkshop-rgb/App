@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    background-color: #FAF6F0;
+    color: #382820;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+  }
+}
+
+/* Custom Earth Palette Helpers */
+.bg-earth-bg {
+  background-color: #FAF6F0;
+}
+.bg-earth-card {
+  background-color: #FFFFFF;
+}
+.bg-earth-sand {
+  background-color: #F5EFEB;
+}
+.bg-earth-terracotta {
+  background-color: #B85B14;
+}
+.border-earth-sand {
+  border-color: #E6DCCF;
+}
+.text-earth-espresso {
+  color: #382820;
+}
+.text-earth-taupe {
+  color: #7A6B63;
+}
+.text-earth-terracotta {
+  color: #B85B14;
+}

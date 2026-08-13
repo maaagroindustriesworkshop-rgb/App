@@ -1,0 +1,6 @@
+{
+  "name": "Curious Bharat",
+  "description": "A minimal, premium mobile-first EdTech platform featuring real-time batch management, batch customization & hero image editor, AI test generator, CuriousAI floating tutor, student analytics, and cognitive games in high-contrast light mode.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
